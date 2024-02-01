@@ -1,0 +1,1 @@
+# infra-az-automationAccount-stop-logicapp
